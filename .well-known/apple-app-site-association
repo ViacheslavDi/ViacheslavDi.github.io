@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": ["ZPA4ZSP8Q5.onemorechance.game"],
+        "appID": "ZPA4ZSP8Q5.onemorechance.game",
+        "paths": ["/one-more-chance/add/*"],
+        "components": [{ "/": "/one-more-chance/add/*", "comment": "Friend invite links" }]
+      }
+    ]
+  }
+}
