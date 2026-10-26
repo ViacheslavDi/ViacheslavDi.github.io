@@ -1,0 +1,14 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "onemorechance.game",
+      "sha256_cert_fingerprints": [
+        "13:CB:62:51:21:97:92:4D:2C:A3:BF:42:6D:B6:94:3F:14:4D:2B:73:E7:01:61:B8:85:9D:51:E7:46:BF:F2:17",
+        "D8:0C:03:7D:04:92:3D:DA:74:EE:13:CB:05:7F:1D:4F:88:CC:E4:B9:24:4C:72:63:E6:22:64:8D:20:B4:8F:7F",
+        "E6:71:63:7F:30:FE:C5:B5:15:8C:27:F9:FC:A2:0F:9A:29:AF:26:BD:67:01:E5:E0:FA:91:EC:40:F8:39:25:27"
+      ]
+    }
+  }
+]
